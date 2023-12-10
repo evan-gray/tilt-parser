@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tilt-parser/static/js/main.6bdb1130.js",
+    "index.html": "/tilt-parser/index.html",
+    "main.6bdb1130.js.map": "/tilt-parser/static/js/main.6bdb1130.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6bdb1130.js"
+  ]
+}
